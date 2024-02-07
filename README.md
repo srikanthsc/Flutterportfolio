@@ -1,6 +1,9 @@
-# my_portfolio
+# Demo App
 
 A new Flutter project.
+<video src="https://github.com/srikanthsc/flutterportfolio/blob/master/flutterapp.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
 
 ## Getting Started
 
