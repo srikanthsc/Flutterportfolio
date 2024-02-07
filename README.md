@@ -1,8 +1,9 @@
 # Demo App
 
-A new Flutter project.
-<video src="https://github.com/srikanthsc/flutterportfolio/blob/master/flutterapp.mov" controls="controls" style="max-width: 730px;">
-</video>
+
+
+https://github.com/srikanthsc/flutterportfolio/assets/79998871/9c11b279-a21d-435b-a230-4983912b0cfb
+
 
 
 ## Getting Started
